@@ -1,0 +1,4 @@
+fileignoreconfig:
+- filename: src/main/resources/db/migration/V1__create_initial_schema.sql
+  checksum: 82a3da253739f280d901f4f20c1d11e65f5163a8a51780f880d332cdecb335b6
+version: ""
