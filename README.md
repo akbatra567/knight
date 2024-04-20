@@ -18,5 +18,6 @@ Technology:
 ### TODO:
 - Setup Authentication using [KeyCloak](https://www.keycloak.org/)
 - Setup [Prometheus](https://prometheus.io/) for monitoring and alerting. 
+- Setup [Grafana](https://grafana.com/) for data visualization
 
 Swagger Docs Available [here](http://localhost:8080/swagger-ui/index.html)
