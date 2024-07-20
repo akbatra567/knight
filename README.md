@@ -1,5 +1,13 @@
 # Knight
 
+
+## Setting up Project
+
+```shell
+cp .env.example .env
+```
+
+[![Java CI with Maven](https://github.com/akbatra567/knight/actions/workflows/maven.yml/badge.svg)](https://github.com/akbatra567/knight/actions/workflows/maven.yml)
 - Docker compose file available for running postgres instance
 - Swagger Documentation Available
 

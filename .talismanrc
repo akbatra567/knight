@@ -1,4 +1,6 @@
 fileignoreconfig:
-- filename: README.md
-  checksum: 81d11b53749aa04e48e2f7af9f40451f8714f21639c4a9540d4713ae8fa56c74
+- filename: .env.example
+  checksum: e972e0516fd46cb8189965cecb13d55a19cfd97a58b4fdb9305c4f18969d01b5
+- filename: src/main/resources/application.properties
+  checksum: 779ce6fe0d41279dd6b993b8670e6780e13be63b3fdfcf3441b68f669262d28d
 version: ""
